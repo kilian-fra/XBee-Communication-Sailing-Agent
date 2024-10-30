@@ -1,0 +1,5 @@
+menuconfig MODULES_COMMUNICATION
+	bool "communication"
+	default n
+	---help---
+		Enable support for communication
